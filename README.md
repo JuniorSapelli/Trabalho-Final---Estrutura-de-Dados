@@ -1,2 +1,7 @@
-# Trabalho-Final---Estrutura-de-Dados
-Projeto final - Simulação de um escritório implementando as collections (listas, pilhas e filas) - Estrutura de dados
+# Sobre ❓
+  Simulação de um escritório implementando as collections (listas, pilhas e filas)
+
+# Pré Requisitos ✔️
+- Java instalado
+- IDE Eclipse ou Netbeans
+
